@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table {
+  width: 80vw;
+  border: solid;
+  margin:5vh auto;
+  border-collapse: collapse;
+  font-size: 30px;
+
+  td {
+    border: solid;
+    text-align: center;
+    height:35px;
+  }
+
+  button{
+    height: 28px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+  }
+}
+
+.addEmpForm {
+  /* border: solid; */
+
+  margin: 2vh auto;
+  width: 25vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1vh;
+
+  input {
+    padding-left: 100px;
+    height: 5vh;
+    border-radius: 10px;
+  }
+
+  button {
+    width: 20vw;
+    height: 5vh;
+    border-radius: 10px;
+  }
+}
+
+.submitInput {
+  padding-left: 10px;
+  height: 5vh;
+  border-radius: 10px;
+}
+
+.viewMoreSection {
+  margin: 3vh auto;
+  height: 75vh;
+  width: 30vw;
+  border: solid;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3vh;
+  font-size: 30px;
+
+  img {
+    height: 30vh;
+  }
+  hr {
+    width: 20vw;
+    margin: 2vh auto;
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "employee": [
+    {
+      "id": "1bb3",
+      "name": "atul Gathwala",
+      "email": "atul@123",
+      "password": "yeaah"
+    },
+    {
+      "id": "1e2f",
+      "name": "pranav singh",
+      "email": "pl@123",
+      "password": "byee"
+    },
+    {
+      "id": "012c",
+      "name": "akki",
+      "email": "akii@123",
+      "password": "123"
+    },
+    {
+      "id": "3254",
+      "name": "kl",
+      "email": "g@123",
+      "password": "jg123"
+    },
+    {
+      "id": "be2e",
+      "name": "Jugmender",
+      "email": "Gathwala",
+      "password": "jg123"
+    },
+    {
+      "id": "84f8",
+      "name": "Atul Gathwala",
+      "email": "atulgathwala1728@gmail.com",
+      "password": "a123"
+    },
+    {
+      "id": "0657",
+      "name": "Atul Gathwala",
+      "email": "atulgathwala1728@gmail.com",
+      "password": "dsl,fre"
+    },
+    {
+      "id": "0c6e",
+      "name": "Ragavsw",
+      "email": "ssss",
+      "password": "ssss"
+    },
+    {
+      "id": "ad09",
+      "name": "abc",
+      "email": " hbhhbhb",
+      "password": "jbhb"
+    },
+    {
+      "id": "4d4b",
+      "name": "acghadghcbakh",
+      "email": "ancmkzndknv",
+      "password": "nacndlkjn"
+    }
+  ]
+}
